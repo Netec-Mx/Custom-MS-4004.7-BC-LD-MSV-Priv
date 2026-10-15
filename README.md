@@ -13,47 +13,26 @@ Este curso proporciona a profesionales de Operaciones y Servicio una experiencia
 
 ## Lista de laboratorios
 
-### Capítulo 1
-
-- [Práctica: Interpretar un modelo de datos y construir el contexto del caso](Capitulo01/README.md#práctica-interpretar-un-modelo-de-datos-y-construir-el-contexto-del-caso)
+### [Práctica 1](Capitulo01/README.md)
   
   - Duración estimada: 19 min
-  - Descripción: Interpretar un modelo de datos y construir el contexto del caso. A partir de una imagen o PDF con un modelo de datos de servicio, los participantes pedirán a Copilot que identifique entidades, claves y relaciones, vincule el modelo con la pregunta operativa, detecte ambigüedades y proponga los campos necesarios. Consolidarán el PDF o las notas derivadas, el enunciado y las decisiones en un Copilot Notebook como contexto reutilizable.
-    
-  - [Ver capítulo completo](Capitulo01/README.md)
+  - Descripción: Del problema operativo al contexto de datos.
 
-### Capítulo 2
-
-- [Práctica: Generar y validar SQL, M y DAX a partir del mismo caso](Capitulo02/README.md#práctica-generar-y-validar-sql-m-y-dax-a-partir-del-mismo-caso)
+### [Práctica 2](Capitulo02/README.md)
 - 
   - Duración estimada: 24 min
-  - Descripción: Usando el modelo interpretado, solicitarán a Copilot una consulta SQL que responda una pregunta concreta de servicio y explique las uniones, filtros y agregaciones utilizadas. Después, partirán de una necesidad o fórmula existente para generar o mejorar una expresión M o DAX para Power BI. Cerrarán la práctica definiendo pruebas sencillas que permitan comprobar que los resultados coinciden con el modelo y la regla de negocio.
-    
-  - [Ver capítulo completo](Capitulo02/README.md)
+  - Descripción: Del modelo de datos a SQL y métricas de Power BI.
 
-### Capítulo 3
-
-- [Práctica: Crear un script de Python para anonimizar datos operativos](Capitulo03/README.md#práctica-crear-un-script-de-python-para-anonimizar-datos-operativos)
+### [Práctica 3](Capitulo03/README.md)
   
-  - Duración estimada: 17 min
-  - Descripción: Crear un script de Python para anonimizar datos operativos. Con un archivo de ejemplo, pedirán a Copilot que genere un script de Python para anonimizar nombres, correos o identificadores, conservar la estructura necesaria para el análisis y producir un archivo de salida separado. Solicitarán parámetros, comentarios, controles de errores y una comprobación del resultado antes de considerar el script utilizable.
+  - Duración estimada: 34 min
+  - Descripción: Proteger y analizar datos antes de tomar decisiones.
     
-- [Práctica: Analizar el resultado con Analista, Excel y Copilot Notebooks](Capitulo03/README.md#práctica-analizar-el-resultado-con-analista-excel-y-copilot-notebooks)
-  
-  - Duración estimada: 17 min
-  - Descripción: Analizar el resultado con Analista, Excel y Copilot Notebooks. Con los datos anonimizados, utilizarán Analista y Copilot en Excel para comparar conteos, identificar patrones, excepciones y prioridades de intervención. Incorporarán al Notebook los hallazgos, la tabla de seguimiento y las decisiones, junto con el PDF o las notas del diagrama, la consulta SQL, las fórmulas M/DAX y el script de anonimización.
-    
-  - [Ver capítulo completo](Capitulo03/README.md)
-
-### Capítulo 4
-
-- [Práctica: Del Notebook a entregables para distintos públicos](Capitulo04/README.md#práctica-del-notebook-a-entregables-para-distintos-públicos)
+### [Práctica 4](Capitulo04/README.md)
   
   - Duración estimada: 25 min
-  - Descripción: Del Notebook a entregables para distintos públicos. Tomando el Copilot Notebook como contexto del caso, los participantes prepararán en Word una nota técnica con supuestos, consulta, fórmulas, controles de privacidad y validaciones; generarán en PowerPoint un resumen ejecutivo de hallazgos, riesgos y acciones; y redactarán en Outlook un mensaje para los responsables del servicio con decisiones, pendientes y seguimiento. Copilot adaptará la profundidad del contenido sin cambiar la evidencia validada.
+  - Descripción: Convertir el análisis técnico en decisiones y comunicación.
     
-  - [Ver capítulo completo](Capitulo04/README.md)
-
 ----
 
 ## 📬 **Contacto y más información**
