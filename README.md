@@ -19,7 +19,7 @@ Este curso proporciona a profesionales de Operaciones y Servicio una experiencia
   - Descripción: Del problema operativo al contexto de datos.
 
 ### [Práctica 2](Capitulo02/README.md)
-- 
+
   - Duración estimada: 24 min
   - Descripción: Del modelo de datos a SQL y métricas de Power BI.
 
