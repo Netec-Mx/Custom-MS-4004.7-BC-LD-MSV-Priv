@@ -1,7 +1,6 @@
-
-  <img src="https://raw.githubusercontent.com/Netec-Mx/261007-Custom-MS-4004-7-BC-LD-MSV-Priv/main/assets/LogoNetec.png" alt="NETEC" width="180" />
-</p>
-
+<a href="https://netec.com">
+  <img src="https://static.wixstatic.com/media/96edd2_934dddb3230b4b16b1d1c56c51143738~mv2.png" alt="Logo de Netec" width="300"/>
+</a>
 
 # Capacita a tus empleados con Microsoft 365 Copilot: Casos de uso Operaciones y Servicio
 
